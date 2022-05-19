@@ -5,6 +5,16 @@
 - 👯 aqui no gitHub tem varios webservices que criei
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="gui_wt" height="30" width="40" src="	https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white">
+ 
+  <img align="center" alt="gui_wt" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+  
+  <img align="center" alt="gui_wt" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" >
+ 
+  <img align="center" alt="gui_wt" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
+  
+  <img align="center" alt="gui_wt" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+          
+                   
+          
   
 </div  
