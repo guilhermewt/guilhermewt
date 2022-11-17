@@ -1,8 +1,6 @@
 ### olá eu sou Guilherme Silva 👋
 
-- 🔭 hoje eu trabalho com backend -> ecossistema spring 
-- 🌱 estudando Angular
-- 👯 aqui no gitHub tem varios webservices que criei
+- 🔭 Aqui você encontra, sistemas, Apis, Webservices, na maioria das vezes usando a linguagem Java!
 
 <div style="display: inline_block"><br>
  
