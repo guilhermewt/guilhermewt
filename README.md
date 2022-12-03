@@ -1,4 +1,4 @@
-### olá eu sou Guilherme Silva 👋
+### Guilherme Silva 👋
 
 - 🔭 Aqui você encontra, sistemas, Apis, Webservices, na maioria das vezes usando a linguagem Java!
 
