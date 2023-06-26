@@ -1,33 +1,53 @@
-### Guilherme Silva 👋
-
-- 🔭 Aqui você encontra, sistemas, Apis, Webservices, na maioria das vezes usando a linguagem Java!
-
-<div style="display: inline_block"><br>
+<div align="center" margin-bottom:50px;>
+	<img src="https://github.com/guilhermewt/assets/blob/main/Api%20de%20pedidos/spring-boot.webp" style="width:90px;height:50px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width:70px;height:50px;">
+	<img src="https://github.com/guilhermewt/assets/blob/main/Api%20de%20pedidos/jwt.png" style="width:90px;height:50px;">
+	<img src="https://github.com/guilhermewt/assets/blob/main/Api%20de%20pedidos/postgre.jpg" style="width:80px;height:50px;">
+	<img src="https://github.com/guilhermewt/assets/blob/main/Api%20de%20pedidos/docker.jpg" style="width:90px;height:50px;">
+	<img src="https://github.com/guilhermewt/assets/blob/main/Api%20de%20pedidos/JUnit.svg" style="width:90px;height:50px;">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="width:90px;height:50px;">
+ <img src="https://ninelabs.blog/wp-content/uploads/2023/01/redis-1.png" style="width:90px;height:50px;">
  
-  <img align="center" alt="gui_wt" height="80" margin-right="600px" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+</div>
   
-  <img align="center" alt="gui_wt" height="80" margin-right="600px" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" >
- 
-  <img align="center" alt="gui_wt" height="80" margin-right="600px" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  
-  <img align="center" alt="gui_wt" height="80" margin-right="600px" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<div align="center">
 
-  What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<h1>Guilherme Silva </h1>
 
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Sou um programador Backend com conhecimentos no desenvolvimento de aplicaçoes web utilizando a linguagem Java.Minha especialidade é o desenvolvimento de APIs REST usando na grande parte o ecossistema spring.Também tenho habilidades em banco de dados relacionais e noSQL. Sempre busquei aplicar testes unitários, testes automatizados. Também trabalho com conteinarização utilizando docker. Abaixo, você encontrará uma visão geral dos meus conhecimentos e projetos:
+</div>
+<br>
+
+* Java: Tenho um amplo conhecimento em Java, incluindo os princípios da linguagem, orientação a objetos e estruturas de dados.
+
+* Spring Framework: Domino o Spring Framework, especialmente o Spring Boot, que utilizei em vários projetos para criar aplicativos empresariais eficientes.
+
+* Docker: Tenho experiência em trabalhar com Docker para criar contêineres e facilitar a implantação de aplicativos em diferentes ambientes.
+
+* SQL e Bancos de Dados Relacionais: Possuo habilidades em consultas SQL e modelagem de banco de dados, que utilizei em projetos de sistema de gerenciamento de livros.
+* Redis: Tenho conhecimento em banco de dados Redis, que é uma solução de armazenamento em memória de alta velocidade. Utilizei o Redis para melhorar o desempenho e a escalabilidade em projetos que exigiam cache de dados ou armazenamento de sessões.
+
+* MongoDB: Possuo conhecimento em banco de dados NoSQL MongoDB. Utilizei o MongoDB em projetos nos quais a flexibilidade do esquema e a capacidade de escalabilidade horizontal eram necessárias. Apliquei o noSQL em projeto de uma api de um blog 
+
+* Web Services: Tenho conhecimento em desenvolvimento de Web Services, incluindo a criação de APIs RESTful.
+
+* Maven: Sou capaz de gerenciar dependências e automatizar a construção de projetos usando ferramentas como Maven.
+
+* Testes Unitários: Tenho experiência na aplicação de testes unitários com JUnit para garantir a qualidade do código.
+
+* Versionamento de Código: tenho conhecimento em sistemas de controle de versão, como Git, para controlar e colaborar no desenvolvimento de projetos.
+
+* HTML, CSS e JavaScript: Possuo conhecimentos básicos em frontend, que me permitem colaborar efetivamente com desenvolvedores frontend em projetos web.
+
+* Angular: Tenho conhecimentos solidos em front-end com Angular, inclusive tenho um crud de pedidos e sistema de gerenciamento de livros feitos em angular.
 
 
-Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Projetos:
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Abaixo listo minhas experiencias mais detalhadamente com projetos usando os conhecimentos acima. Atualmente estou trabalhando com uma api de gerenciamento de livros e em conjunto, estou criando uma interface para esta api com angular.
 
-Where can I get some?
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from
+Estou sempre buscando novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades como desenvolvedor Java. Se você está em busca de um profissional dedicado, apaixonado e pronto para enfrentar desafios, estou à disposição para contribuir com seus projetos e alcançar bons resultados.
           
-                   
-          
+                     
   
-</div  
+
