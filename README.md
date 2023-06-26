@@ -20,7 +20,7 @@ Sou um programador Backend com conhecimentos no desenvolvimento de aplicaçoes w
 
 * Java: Tenho um amplo conhecimento em Java, incluindo os princípios da linguagem, orientação a objetos e estruturas de dados.
 
-* Spring Framework: Domino o Spring Framework, especialmente o Spring Boot, que utilizei em vários projetos para criar aplicativos empresariais eficientes.
+* Spring Framework: Domino o Spring Framework, especialmente o Spring Boot, que utilizei em vários projetos para criar APIS web
 
 * Docker: Tenho experiência em trabalhar com Docker para criar contêineres e facilitar a implantação de aplicativos em diferentes ambientes.
 
