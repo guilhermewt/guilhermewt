@@ -9,7 +9,7 @@
  <img src="https://ninelabs.blog/wp-content/uploads/2023/01/redis-1.png" style="width:90px;height:50px;">
  
 </div>
-  
+
 <div align="center">
 
 <h1>Guilherme Silva </h1>
@@ -18,30 +18,15 @@ Sou um programador Backend com conhecimentos no desenvolvimento de aplicaçoes w
 </div>
 <br>
 
-- Java
-- OOP
-- Clean Architecture
-- SOLID
-- Spring FrameworkSpring Framework, 
-- Spring Boot
-- Docker
-- SQL e Bancos de Dados Relacionais
-- MongoDB
-- Maven
-- Testes Unitários(JUNIT)
-- Testes Automatizados
-- HTML, CSS e JavaScript
-- Angular
-- Docker
-- Banco de dados relacional (PostgreSql)
-- Swagger
-- API REST
-- JWT
-- Metodologia agíl(scrum)
-- Jpa/Hibernate
-- Java FX
+|  |  |  |  |
+| ------- | ------- | ------- | ------- |
+| Java | Spring Boot |  OOP | Docker | 
+| Clean Architecture | JWT | SOLID | Angular | 
+| Spring Framework | Java FX | Testes Unitários(JUNIT) | PostgreSql |
+| Testes Automatizados | HTML, CSS e JavaScript | SQL e Bancos de Dados Relacionais | Jpa/Hibernate |
+| MongoDB | Swagger |  Maven | API REST |
 
 
 Projetos:
 
-Abaixo listo minhas experiencias mais detalhadamente com projetos usando os conhecimentos acima. Atualmente estou trabalhando com uma api de gerenciamento de livros e em conjunto, estou criando uma interface para esta api com angular.
+Abaixo estão alguns projetos usando as tecnologias acima. Atualmente estou trabalhando com uma api de gerenciamento de livros e em conjunto, estou criando uma interface para esta api com angular.
